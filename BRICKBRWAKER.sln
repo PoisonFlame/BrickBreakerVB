@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BRICKBREAKER", "BRICKBRWAKER\BRICKBREAKER.vbproj", "{8253A56F-72CC-4DC5-BA13-7595F1546C65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8253A56F-72CC-4DC5-BA13-7595F1546C65}.Debug|x64.ActiveCfg = Debug|x64
+		{8253A56F-72CC-4DC5-BA13-7595F1546C65}.Debug|x64.Build.0 = Debug|x64
+		{8253A56F-72CC-4DC5-BA13-7595F1546C65}.Debug|x86.ActiveCfg = Debug|x86
+		{8253A56F-72CC-4DC5-BA13-7595F1546C65}.Debug|x86.Build.0 = Debug|x86
+		{8253A56F-72CC-4DC5-BA13-7595F1546C65}.Release|x64.ActiveCfg = Release|x64
+		{8253A56F-72CC-4DC5-BA13-7595F1546C65}.Release|x64.Build.0 = Release|x64
+		{8253A56F-72CC-4DC5-BA13-7595F1546C65}.Release|x86.ActiveCfg = Release|x86
+		{8253A56F-72CC-4DC5-BA13-7595F1546C65}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DC100D0-C12E-4C14-9D66-18E93B36AC04}
+	EndGlobalSection
+EndGlobal

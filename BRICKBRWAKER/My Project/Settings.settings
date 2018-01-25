@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Player1Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User 1</Value>
+    </Setting>
+    <Setting Name="Player1Score" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Player2Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User 2</Value>
+    </Setting>
+    <Setting Name="Player2Score" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Player3Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User 3</Value>
+    </Setting>
+    <Setting Name="Player3Score" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Player4Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User 4</Value>
+    </Setting>
+    <Setting Name="Player4Score" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Player5Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User 5</Value>
+    </Setting>
+    <Setting Name="Player5Score" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
